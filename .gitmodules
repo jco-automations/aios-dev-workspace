@@ -1,0 +1,4 @@
+[submodule "AIOS-dev"]
+	path = AIOS-dev
+	url = https://github.com/jco-automations/aios.git
+	branch = master
